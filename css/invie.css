@@ -1,3 +1,18 @@
-body{
-  background: peru;
+.titulo{
+  font-size: 70px;
+}
+
+.title-a{
+  font-size: 24px;
+}
+
+.title-b{
+  font-size: 50px;
+}
+.guitarras h2{
+  font-size: 35px;
+}
+
+.portada{
+  background-image: url('../img/background.png'); /*Me quede en min 9/ clase 03 de css*/
 }
